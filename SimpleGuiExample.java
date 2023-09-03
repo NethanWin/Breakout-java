@@ -1,4 +1,4 @@
-/*import biuoop.GUI; 
+import biuoop.GUI; 
 import biuoop.DrawSurface;
 
 import java.util.Random;
@@ -26,4 +26,4 @@ public class SimpleGuiExample {
      SimpleGuiExample example = new SimpleGuiExample();
      example.drawRandomCircles();
   }
-}*/
+}
