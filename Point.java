@@ -14,4 +14,9 @@ public class Point {
     public boolean equals(Point p) {
         return p.x == x && p.y == y;
     }
+
+    @Override
+    public String toString() {
+        return "(" + x + "," + y + ')';
+    }
 }
