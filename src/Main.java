@@ -1,4 +1,6 @@
-import biuoop.GUI; 
+package src;
+
+import biuoop.GUI;
 import biuoop.DrawSurface;
 import biuoop.Sleeper;
 

@@ -1,3 +1,5 @@
+package src;
+
 public class Line {
     private Point p1;
     private Point p2;
